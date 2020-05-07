@@ -1,4 +1,4 @@
-# personal-expense
+# Personal Expense Tracker
 
 ![Demo](./assets/images/demo.png)
 
